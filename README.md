@@ -3,6 +3,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Project Process](#project-process)
+* [Power BI Report](#powerbi)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 ## General Information
@@ -18,6 +19,13 @@
 - Based on applied literature, used 3 recommended estimators and cross validated them to pick the best one for this dataset.  
 - Predict baseline on test set and sort results in descending order. 
 - Plot and display feature importance. 
+
+## Power BI Report
+- Data can be visualized at the Power BI server of the client.
+![Power BI report](https://github.com/pariosur/avance_bpo/blob/9a36a3633f88dc957543e6ea9d2e1b8dc3c56db9/Screenshot%202022-11-28%20161004.png)
+
+
+
 ## Room for Improvement
 
 Room for improvement:
