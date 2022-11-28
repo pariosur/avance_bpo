@@ -29,7 +29,6 @@
 ## Room for Improvement
 
 Room for improvement:
-- Include more socio demographic from the borrower. 
 - Include more socio demographic data from the borrower. 
 - Include loan data from the bank regarding client payment behaviour before being transfered to the debt collecting agency. 
 - Include business cycle variables like macroeconomic and ﬁnancial macro economic indicators that capture economic uncertainty and other variables that may affect payment behaviour. 
